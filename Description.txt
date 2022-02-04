@@ -1,0 +1,8 @@
+Created a sample site that captures my knowledge at the time of publication. 
+This site is written only in HTML \ CSS The site is adapted, simple and reliable.
+
+The site can be used by someone else, I will only be glad of the usefulness)
+The site is written from the usual layout from Figma, which was also in the public domain.
+
+The site will go for a personal resume as a separate site with personal work, 
+as well as to place on the job exchanges.
